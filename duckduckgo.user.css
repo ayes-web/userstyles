@@ -2,7 +2,7 @@
 @name           Clean DuckDuckGo
 @author         ayes-web
 @description    Removes branding and other clutter from the search page
-@version        1
+@version        1.0.0
 @license        GPLv3
 ==/UserStyle== */
 @-moz-document domain("duckduckgo.com") {
