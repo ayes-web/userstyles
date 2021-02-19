@@ -1,0 +1,12 @@
+/* ==UserStyle==
+@name           Clean DuckDuckGo
+@author         ayes-web
+@description    Removes branding and other clutter from the search page
+@version        1
+@license        GPLv3
+==/UserStyle== */
+@-moz-document domain("duckduckgo.com") {
+    .footer, .js-header-aside, .js-serp-bottom-right, .feedback-prompt, .js-header-logo {
+        display: none !important;
+    }
+}
